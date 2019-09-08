@@ -4,11 +4,9 @@ This repo contains hardware used in this project. Since the rover is still under
 ## Bill of Materials (for each car)
 
 ### Off the shelf parts
-* [Jetson TX1 Developer Kit](http://www.nvidia.com/object/jetson-tx1-dev-kit.html)
-* [ZED Stereo Camera](https://www.stereolabs.com/)
-* [Hokuyo UST-10LX 2D Lidar](https://acroname.com/products/HOKUYO-UST-10LX-LASER?sku=R359-UST-10LX) 
-* [AC1750 Wifi Dual Band Gigabit Router](https://www.amazon.com/TP-Link-Archer-C7-Wireless-Gigabit/dp/B00BUSDVBQ)
-* [Ethernet Jumper Cable (1 per car)](https://www.amazon.com/gp/product/B00EEK1114/ref=od_aui_detailpages00?ie=UTF8&psc=1)
-* [Traxxas RC Car](https://www.amazon.com/Traxxas-Slash-Brushless-Course-Platinum/dp/B00A0KQH84)
-* [7 Port USB 3.0 Hub](https://www.amazon.com/AmazonBasics-Port-USB-Power-Adapter/dp/B00E6GX4BG)
-* [Vedder VESC-X HW 4.12 ESC](http://www.enertionboards.com/electric-skateboard-parts/vesc-x-programmable-brushless-motor-controller/)
+* [Pixhawk 3 Pro](https://docs.px4.io/v1.9.0/en/flight_controller/pixhawk3_pro.html)
+* [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+* [Arduion Mega](https://www.arduino.cc/en/Guide/ArduinoMega2560)
+* [HC-SR04](https://www.sparkfun.com/products/13959) 
+* [Scooter Wheels x2 items](https://m.banggood.com/8inch-24V36V48V-Brushless-Hub-Motor-Toothless-Wheel-For-Electric-Scooter-Skateboard-p-1432409.html?akmClientCountry=America&rmmds=detail-bottom-alsolike)
+* [VESC (1 per wheel)](https://www.amazon.com/Hardware-Project-Continuous-Electric-Skateboard/dp/B07FT87JT8)
