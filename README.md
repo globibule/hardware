@@ -14,4 +14,4 @@ This repo contains hardware used in this project. Since the rover is still under
 * [Variable Step Down](https://fr.banggood.com/LM2596-DC-DC-Verstellbar-Step-Down-Schaltregler-Power-Supply-Module-p-88252.html?gmcCountry=FR&currency=EUR&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=frank&utm_campaign=pla-frg-rm-all-purchase-pc&gclid=CjwKCAjwzdLrBRBiEiwAEHrAYn-3sZP2eYTkSqJ83FbqmSMePFrIeE1ADDOpt4L-IA-97UQntO-owhoCLh4QAvD_BwE)
 * [Li-ion Battery 10S](https://em3ev.com/shop/52v-14s4p-shark/)
 * Adafruit LED Strip
-* Small Fan 40x40 mm
+* [Small Fan 40x40 mm] (https://www.digikey.fr/product-detail/fr/sunon-fans/KDE1204PFV3%252011.MS.B981.A.GN/259-1398-ND/1021247?utm_adgroup=DC+Fans&mkwid=soirtbUt6&pcrid=286835528761&pkw=&pmt=&pdv=c&productid=1021247&slid=&gclid=CjwKCAjw8NfrBRA7EiwAfiVJpXuYcTde5Qbi3sBXyZUr6FOoA89TgTlWLEr8hhH9sUXgrwBVLLnZ-BoCgOoQAvD_BwE)
