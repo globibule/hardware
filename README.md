@@ -12,6 +12,6 @@ This repo contains hardware used in this project. Since the rover is still under
 * [VESC (1 per wheel)](https://www.amazon.com/Hardware-Project-Continuous-Electric-Skateboard/dp/B07FT87JT8)
 * [SBEC YEP 20A 2-12S](https://www.amazon.com/HobbyKing-2-12S-Selectable-Voltage-Output/dp/B00USQZDFI)
 * [Variable Step Down](https://fr.banggood.com/LM2596-DC-DC-Verstellbar-Step-Down-Schaltregler-Power-Supply-Module-p-88252.html?gmcCountry=FR&currency=EUR&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=frank&utm_campaign=pla-frg-rm-all-purchase-pc&gclid=CjwKCAjwzdLrBRBiEiwAEHrAYn-3sZP2eYTkSqJ83FbqmSMePFrIeE1ADDOpt4L-IA-97UQntO-owhoCLh4QAvD_BwE)
-* Li-ion Battery 10S
+* [Li-ion Battery 10S](https://em3ev.com/shop/52v-14s4p-shark/)
 * Adafruit LED Strip
 * Small Fan 40x40 mm
